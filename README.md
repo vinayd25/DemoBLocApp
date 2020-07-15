@@ -1,6 +1,6 @@
 # demoblocapp
 
-A new Flutter application.
+A flutter application with listView implementation using BLoC pattern and rxdart.
 
 ## Getting Started
 
