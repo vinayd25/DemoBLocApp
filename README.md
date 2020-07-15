@@ -2,6 +2,9 @@
 
 A flutter application with listView implementation using BLoC pattern and rxdart.
 
+![alt text](https://github.com/vinayd25/DemoBLocApp/blob/master/appimages/Screen2.png) ![alt text](https://github.com/vinayd25/DemoBLocApp/blob/master/appimages/Screen1.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
