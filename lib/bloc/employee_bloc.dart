@@ -1,6 +1,7 @@
 import 'package:demoblocapp/persistance/repository.dart';
 import 'package:rxdart/rxdart.dart';
 
+/*BLoc class*/
 class EmployeeBloc {
 
   Repository _repository = Repository();
